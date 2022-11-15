@@ -44,7 +44,10 @@
     "content": "b1fb0396-03ec-9f2b-0450-7780f6c25b25",
     "website": "7-346-virus-host-interactions-in-infectious-diseases-spring-2013"
   },
-  "learning_resource_types": [],
-  "site_uid": "065e12b9-5c0d-4ef0-b6a3-a1384567ca3a",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "b2f42492-9b8a-4184-9b61-5244179bfe7f",
+  "short_id": "7.346-spring-2013",
   "title": "Course Metadata"
 }

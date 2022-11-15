@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with summaries of each lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -165,7 +167,7 @@ End-term final assignment
 {{< tdopen >}}
 
 
-{{< anchor "Lec_12" >}}{{< /anchor >}}See "[Assignments]({{< baseurl >}}/pages/assignments)" for a description of what is expected. The students will receive written evaluations of their presentations from the instructor.
+{{< anchor "Lec_12" >}}{{< /anchor >}}See "{{% resource_link 4a34b55a-7da8-0558-d659-404547ffd837 "Assignments" %}}" for a description of what is expected. The students will receive written evaluations of their presentations from the instructor.
 
 Discussion of final assignment. We will conclude with a general discussion to summarize what we covered in the course and address any questions that the students might have. Students are encouraged to provide feedback about any aspect of the course.
 

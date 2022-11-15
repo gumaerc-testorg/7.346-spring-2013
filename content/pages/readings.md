@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic, links
+  to online journal articles, and links to lecture summaries.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Host Sensors of Viral Infection-I
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_1)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_1" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No readings
 
 Introduction and Course Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_2)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_2" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +76,7 @@ Mibayashi, M., L. Martinez-Sobrido, et al. "[Inhibition of Retinoic Acid-Inducib
 
 Host Sensors of Viral Infection-II: The Road to IFN Production Runs through the Mitochondria.
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_3)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_3" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +100,7 @@ Li, XD., L. Sun, et al. "[Hepatitis C Virus Protease NS3/4A Cleaves Mitochondria
 
 Secreted IFN – In the Extracellular Space, No One Can Hear You Scream
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_4)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_4" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ Alcamí, A., J. A. Symons, et al. "[The Vaccinia Virus Soluble Alpha/Beta Interf
 
 Vaccines: We Win, Finally. Not So Fast
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_5)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_5" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +148,7 @@ Manley K., J. Anderson, et al. "[Human Cytomegalovirus Escapes a Naturally Occur
 
 Trip to Sanofi/Pasteur
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_6)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_6" %}}
 
 
 {{< tdclose >}}
@@ -164,7 +166,7 @@ Field Trip—No Readings
 
 A New Player in the Puzzle of Filovirus Entry into Host Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_7)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_7" %}}
 
 
 {{< tdclose >}}
@@ -188,7 +190,7 @@ Carette, J. E., M. Raaben, et al. "[Ebola Virus Entry Requires Cholesterol Trans
 
 IFN Signaling: United STATs and the Rule of V
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_8)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_8" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +214,7 @@ Rodriguez, J. J., J. P. Parisien, et al. "[Nipah Virus V Protein Evades Alpha an
 
 Mechanisms of Human Cytomegalovirus Infection and Restriction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_9)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_9" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Seo, J., R. Yaneva, et al. "[Human Cytomegalovirus Directly Induces the Antivira
 
 HIV Restriction Factors and Mechanism of Evasion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_10)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_10" %}}
 
 
 {{< tdclose >}}
@@ -260,7 +262,7 @@ Mitchell, R. S., C. Katsura, et al. "[Vpu Antagonizes BST-2–Mediated Restricti
 
 Interferon-Induced Transmembrane (IFITM) Proteins as Restriction Factors for Influenza Virus
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_11)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_11" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +286,7 @@ Everitt A. R., S. Clare, et al. "[IFITM3 Restricts The Morbidity and Mortality A
 
 End-Term Final Assignment
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lec_12)
+{{% resource_link 1a4484b7-a460-ad82-3574-1ca24dfb4a22 "See the Lecture Summary" "#Lec_12" %}}
 
 
 {{< tdclose >}}
