@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Image indicating course enrollment numbers.
-file: /courses/7-346-virus-host-interactions-in-infectious-diseases-spring-2013/381146290115e1fe1570e6d59e4e44c2_7-346_stat-students.png
+file: /ol-ocw-studio-app/courses/7-346-virus-host-interactions-in-infectious-diseases-spring-2013/381146290115e1fe1570e6d59e4e44c2_7-346_stat-students.png
+file_size: 2794
 file_type: image/png
 image_metadata:
   caption: ''
