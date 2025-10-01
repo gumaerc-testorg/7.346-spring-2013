@@ -14,7 +14,7 @@ uid: edcd1c5b-122e-838e-424f-8d3b39f2168e
 
 This page focuses on the course _7.346_ _Virus-Host Interactions in Infectious Diseases_ as it was taught by Dr. Sumana Sanyal and Dr. Joseph Ashour in Spring 2013.
 
-This course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. In these pass/fail seminars, students draw upon primary research literature to discuss and learn about current biological research in a highly interactive, small-group setting. This particular seminar focuses on virus-host interactions in infectious diseases.
+This course is one of many {{% resource_link "a52cb57d-6ba2-48c1-ae8b-92ef10a9a7e3" "Advanced Undergraduate Seminars" %}} offered by the Biology Department at MIT. In these pass/fail seminars, students draw upon primary research literature to discuss and learn about current biological research in a highly interactive, small-group setting. This particular seminar focuses on virus-host interactions in infectious diseases.
 
 ## Course Outcomes
 
