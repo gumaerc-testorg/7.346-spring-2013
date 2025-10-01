@@ -93,7 +93,7 @@ Vaccines: We Win, Finally. Not So Fast
 Trip to Sanofi/Pasteur
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Lec_6" >}}{{< /anchor >}}We will visit the [Sanofi/Pasteur](http://www.sanofipasteur.us/) Research Institute in Cambridge, which is actively involved in developing vaccines for viruses such as influenza. This visit will allow the students to appreciate the translational aspect of the research topics that we discuss in class and see the laboratory setting in an institute dedicated to fighting against infectious diseases and the equipment and the techniques that are routinely used.
+{{< anchor "Lec_6" >}}{{< /anchor >}}We will visit the {{% resource_link "ffa59628-5342-4d12-adfc-4aee87d2fd65" "Sanofi/Pasteur" %}} Research Institute in Cambridge, which is actively involved in developing vaccines for viruses such as influenza. This visit will allow the students to appreciate the translational aspect of the research topics that we discuss in class and see the laboratory setting in an institute dedicated to fighting against infectious diseases and the equipment and the techniques that are routinely used.
 {{< tdclose >}}
 
 {{< trclose >}}
